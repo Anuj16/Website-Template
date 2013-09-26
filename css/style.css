@@ -1,0 +1,93 @@
+.navbar-inner{
+  background: transparent;
+  background: rgba(248, 245, 245, 0.72);
+
+ }
+ #logo{
+  margin-left: 9%;
+  margin-top: 1%%;
+ }
+ #hello{
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: -1%;
+  padding-bottom: 5px;
+  margin-top: 4px;
+  margin-right: 61px;
+
+ }
+ #welcome p{
+  font-size: 45px;
+  font-family: 'Josefin Slab', serif;
+  text-align: left;
+  font-weight: 200;
+ }
+#relative{
+  position: relative;
+  right: 77px;
+  top: -108px;
+}
+#download{
+  width: 940px;
+  background-image: -webkit-linear-gradient(top, rgba(139, 129, 129, 0.8) 0%, rgb(255, 255, 255) 45%);
+  text-align: center;
+  border-bottom: 1px solid #ececec;
+  padding-bottom: 40px;
+  padding-top: 20px;
+}
+ul{
+  list-style: none;
+}
+p.a {
+  font-family: 'Josefin Slab', serif;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 200;
+}
+p.b {
+  font-family: 'Josefin Slab', serif;
+  line-height: normal;
+  text-align: center;
+  padding-left: 190px;
+  padding-right: 190px;
+  font-size: 20px;
+  font-weight: 450;  
+}
+#product{
+  text-align: center;
+  width: 68%;
+  padding-left: 16%;
+}
+.container-fluid .row-fluid h2
+{
+  font-family: 'Josefin Slab',serif;
+  font-weight: 200;
+  font-size: 27px;
+}
+.container-fluid .row-fluid p
+{
+  font-family: 'Josefin Slab',serif;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: 200px;
+}
+
+/*.sidephone-small, .sidephone-big{
+  position: absolute;
+  bottom=0;
+  left: 185px;
+}
+
+#double-phone{
+  text-align: left;
+  margin-left: 50px;
+  padding-left: 30px;
+  padding-top: 50px;
+  
+}
+#animation h2 {
+  text-align: inline;
+  font-size: 2.5em;
+  font-family: 'Josefin Slab', serif;
+  font-weight: 200;   
+}*/
